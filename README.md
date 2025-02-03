@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello !!
 
 <!--
 **paolapt/paolapt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+my name is Paola, and I am an undergrad data science student :)
+
+I am passionate about agriculture and sustainability, and in the future hope to use my knowledge to help people and our environment 🌱
+
+(my pronouns are she/her!)
